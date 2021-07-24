@@ -1,2 +1,0 @@
-# pinkcv.html
-Pink cv
